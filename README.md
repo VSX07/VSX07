@@ -191,10 +191,10 @@ Teaching DSA has helped me strengthen my ability to explain technical concepts c
 
 ## 📫 Connect With Me
 
-* 💼 [LinkedIn](YOUR_LINKEDIN_URL)
-* 💻 [GitHub](YOUR_GITHUB_URL)
-* 🧩 [LeetCode](YOUR_LEETCODE_URL)
-* 📧 [Email](mailto:YOUR_EMAIL)
+* 💼 [LinkedIn](https://www.linkedin.com/in/vivek-singh-6098a1263/)
+* 💻 [GitHub](https://github.com/VSX07)
+* 🧩 [LeetCode](https://leetcode.com/u/VSX07/)
+* 📧 [Email](vivekgnps@gmail.com)
 
 ---
 
